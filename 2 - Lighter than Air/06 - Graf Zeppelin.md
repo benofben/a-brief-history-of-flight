@@ -6,7 +6,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 In 1929, the Graf Zeppelin circumnavigating the world, leaving New Jersey and stopping in Germany, Japan and California.
 
-The ship carried 61 people on a 21 day joureny over 20,000 miles.
+The ship carried 61 people on a 21 day journey over 20,000 miles.
 
 ## Image
 
