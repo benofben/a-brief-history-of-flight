@@ -1,9 +1,9 @@
 # VTOL
 
-Jetson
-Bush planes
-Around the world plane
-Sikorsky
-Blackhawk
-Bell
-Osprey
+* Jetson
+* Bush planes
+* Around the world plane
+* Sikorsky
+* Blackhawk
+* Bell
+* Osprey
