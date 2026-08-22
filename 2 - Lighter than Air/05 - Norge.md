@@ -6,7 +6,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 In 1926, Roald Amudsen led the first expedition to fly over the North Pole.  
 
-He flew the Norge, a hydrogen fuel cell airship with a gasoline motor.
+He flew the Norge, a hydrogen cell airship with a gasoline motor.
 
 ## Image
 

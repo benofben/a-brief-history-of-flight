@@ -1,15 +1,15 @@
-# K Blimp
+# K-class Blimp
 
 This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.
 
 ## Text
 
-After the disaster, helium replaced hydrogen in airships.  Helium is a noble gas.  
+After the disaster, helium replaced hydrogen in airships.  Helium is a noble gas.
+
+The K-class blimp was built by the Goodyear in Akron, Ohio, for the United States Navy. These blimps were powered by two Pratt & Whitney Wasp air-cooled engines on outriggers.
 
 ## Image
 
-Use the sample as the background.  Make sure the image extends to the edge with no border.  Be sure not to create a new image but to use the sample image.
+Create an image of a K-14 flying over the ocean.  Use the sample for reference.  Do not modify the design of the blimp in any way.
 
-
-
-
+The image should be photorealistic.

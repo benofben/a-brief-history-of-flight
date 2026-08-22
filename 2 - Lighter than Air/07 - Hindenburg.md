@@ -6,7 +6,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 Tragedy struck in 1937.  The Hindenburg caught fire and crashed.
 
-The airship was filled with Hydrogen.  Hydrogen is highly flammable.
+The airship was filled with hydrogen.  Hydrogen is highly flammable.
 
 ## Image
 

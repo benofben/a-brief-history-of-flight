@@ -1,15 +1,15 @@
-# What happened
+# How it works
 
 This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.
 
 ## Text
 
-Helium is a noble gas.
+Helium cannot form chemical bonds with oxygen to release heat.  That is why modern airships and blimps use it exclusively instead of hydrogen.
+
+Helium is heavier than hydrogen.  So, while safer, it is an inferior lifting gas.
 
 ## Image
 
-Use the sample as the background.  Make sure the image extends to the edge with no border.  Be sure not to create a new image but to use the sample image.
+Show a drawing of a helium atom with protons, neutrons and electrons.
 
-
-
-
+The drawing should be in the style of a blueprint schematic.
