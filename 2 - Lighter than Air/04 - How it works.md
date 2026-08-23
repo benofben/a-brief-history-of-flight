@@ -6,7 +6,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 A lifting gas balloon is filled with a gas that is lighter than air.  Hydrogen and helium are most common.
 
-The balloon generates lift based on Archimedes’ principle of buoyancy.  An object immersed in a fluid, experiences an upward buoyant force equal to the weight of the air it displaces.
+The balloon generates lift based on Archimedes’ principle of buoyancy.  An object immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces.
 
 ## Image
 
