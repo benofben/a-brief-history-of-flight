@@ -9,6 +9,6 @@ by Ben Lackey
 
 ## Image
 
-The image should be photorealistic.  It shows the X-29 flying over a desert with a dark sky and the aurora borealis.
+Paint the cover in the style of robert schultz.  It shows the X-29 flying over a desert with a dark sky and the aurora borealis.
 
-The text font should be the same as the lettering on the X-29.
+The font to look like an old Poul Anderson sci fi cover.
