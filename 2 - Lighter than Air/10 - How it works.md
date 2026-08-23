@@ -4,7 +4,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-Helium cannot form chemical bonds with oxygen to release heat.  That is why modern airships and blimps use it exclusively instead of hydrogen.
+Helium cannot form chemical bonds with oxygen to release heat.  That is why modern airships use it instead of hydrogen.
 
 Helium is heavier than hydrogen.  So, while safer, it is an inferior lifting gas.
 
