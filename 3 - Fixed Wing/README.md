@@ -7,6 +7,8 @@
 * F-22
 * F-35
 
+* The Spirit of St Louis
+* DC-3
 * DC-10
 * 747
 * Voyager

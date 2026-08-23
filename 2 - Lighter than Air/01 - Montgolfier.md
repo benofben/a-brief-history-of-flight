@@ -1,4 +1,4 @@
-# Hot Air Balloon
+# Montgolfier
 
 This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.
 
@@ -8,4 +8,4 @@ The first manned flight took place in 1783 in Paris.  The Montgolfier brothers b
 
 ## Image
 
-Show a historical color drawing of the Montgolfier balloon flight in 1783.
+Use the example image and overlay text.

@@ -12,6 +12,6 @@ The plane was made of wood, piano wire and muslin wings.  A four cylinder gasoli
 
 Show a picture of Orville Wright flying the Wright Flyer for the first time.
 
-# Style
+## Style
 
 The image should be photorealistic
