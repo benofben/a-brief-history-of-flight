@@ -4,7 +4,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In the year 8, Ovid wrote the story of Icarus.  His father builds wings of feathers and wax.  But Icarus flys too close to the sun.  The wings melt and he falls.
+Ovid wrote the story of Icarus.  His father builds wings of feathers and wax.  But Icarus flys too close to the sun.  The wings melt and he falls.
 
 ## Image
 

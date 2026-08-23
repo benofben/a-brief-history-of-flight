@@ -4,7 +4,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-By the 3rd century AD, the Chinese created sky lanterns.  These laterns are made of paper with an oil lamp.  Sky lanterns are the earliest known hot air balloons.
+By the 3rd century, the Chinese created sky lanterns.  These laterns are made of paper with an oil lamp.  Sky lanterns are the earliest known hot air balloons.
 
 ## Image
 
