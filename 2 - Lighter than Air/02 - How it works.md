@@ -1,6 +1,6 @@
 # How it works
 
-This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.
+This is a page in a children's book.  The aspect ratio should be 1:1.  The image should be 12" x 12" at 300DPI.  There should be an image with the text overlaid.
 
 ## Text
 
@@ -10,6 +10,10 @@ The hot air is less dense than the surrounding air.  This causes it to rise.
 
 ## Image
 
-Show a drawing of how the Montgolfier hot air balloon worked.  This should depict hot, lighter air in the balloon, causing it to rise through less dense air.
+Show a drawing of the Montgolfier hot air balloon worked.  
+
+This should depict a brazier heating the bottom of the balloon.  
+Arrows show expanding air leaving the bottomo of the balloon.
+Another arrow shows buoyancy.
 
 The drawing should be in the style of a blueprint schematic.
