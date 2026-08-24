@@ -4,9 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 1926, Robert Goddard launched the first liquid fueled rocket.  It used gasoline with liquid oxygen.
+Leonardo da Vinci’s aerial screw is the earliest known model for a helicopter.  The screw was canvas over a wooden frame.
 
-The rocket reached a height of 41 feet and traveled 184 feet.
+Unfortunately 15th century materials and engines were insufficient to build a working model.  He had the right idea but not the technology he needed.
 
 ## Image
 

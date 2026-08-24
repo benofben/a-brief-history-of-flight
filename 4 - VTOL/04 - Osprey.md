@@ -4,10 +4,10 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 1926, Robert Goddard launched the first liquid fueled rocket.  It used gasoline with liquid oxygen.
-
-The rocket reached a height of 41 feet and traveled 184 feet.
+The Bell-Boeing V-22 Osprey was a mix of airplane and helicopter.  It could take off vertically.  Then the propellers tilted to allow it to fly like a plane.
 
 ## Image
 
-Use the example image as guidance.  Create a photorealistic picture.
+Create an image of the V-22
+
+Create a photorealistic picture.
