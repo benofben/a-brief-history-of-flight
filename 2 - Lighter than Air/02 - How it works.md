@@ -1,6 +1,6 @@
 # How it works
 
-This is a page in a children's book.  The aspect ratio should be 1:1.  The image should be 12" x 12" at 300DPI.  There should be an image with the text overlaid.
+This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.
 
 ## Text
 
