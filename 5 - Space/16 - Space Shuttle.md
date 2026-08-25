@@ -4,7 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In the 1970s futurists such as Clarke and Dyson imagined life in space.  They proposed orbital habitats and colonies on other planets.
+First launched in 1981, the Space Shuttle was intended to be a reusable space craft.
+
+It launched on 3 rockets, 2 XX and a XX.  Descending from space, it flew like a plane, ultimatley landing on a runway.
 
 ## Image
 

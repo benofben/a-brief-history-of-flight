@@ -4,9 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 20XX, Elon Musk founded SpaceX.  It supplied rockets to NASA.  Musk's ultimate goal is colonizing Mars.
+In the 1970s futurists such as Clarke and Dyson imagined life in space.  They proposed orbital habitats and colonies on other planets.
 
-Starship is intended to get us to Mars.  It flys out of Boca Chica at the southernmost point in Texas.  Orbital insertion requires less energy closer to the equator.
+Even more ambitious ideas from this period include the space elevator and the Dyson Sphere.
 
 ## Image
 
