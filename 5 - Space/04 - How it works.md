@@ -4,9 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-Compared with modern designs, Goddard’s rocket was inverted.  The fuel was at the bottom.  The engine above.
+A liquid rocket carries fuel and an oxidizer.  A chemical reaction of the two creates thrust.
 
-This helped with weight distribution but had challenges.
+Goddard used gasoline and oxygen.  Today hydrogen and oxygen are most common.
 
 ## Image
 

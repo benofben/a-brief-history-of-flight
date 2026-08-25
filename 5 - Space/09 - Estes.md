@@ -1,12 +1,10 @@
-# Goddard
+# Estes
 
 This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.  Put the first paragraph of text at the top.  Put the second paragraph at the bottom.
 
 ## Text
 
-In 1926, Robert Goddard launched the first liquid fueled rocket.  It used gasoline with liquid oxygen.
-
-The rocket reached a height of 41 feet and traveled 184 feet.
+In 1958 Estes began producing model rockets.  Generations of children have grown up playing with these, learning about aerodynamics and thrust firsthand.
 
 ## Image
 

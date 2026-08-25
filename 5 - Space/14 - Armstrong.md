@@ -1,12 +1,12 @@
-# Goddard
+# Armstrong
 
 This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.  Put the first paragraph of text at the top.  Put the second paragraph at the bottom.
 
 ## Text
 
-In 1926, Robert Goddard launched the first liquid fueled rocket.  It used gasoline with liquid oxygen.
+Neil Armstrong was the first man to set foot on the moon.
 
-The rocket reached a height of 41 feet and traveled 184 feet.
+He said, "That's one small step for man, one giant leap for mankind."
 
 ## Image
 

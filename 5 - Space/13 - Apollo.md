@@ -4,7 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In the 1970s futurists such as Clarke and Dyson imagined life in space.  They proposed orbital habitats and colonies on other planets.
+The Apollo X mission put a man on the moon in 1969.  Neil Armstrong and Jim Lovel launched on top of a Saturn V rocket.
+
+The rocket had X stages.  As it flew higher, those fell off.
 
 ## Image
 

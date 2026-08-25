@@ -4,7 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In the 1970s futurists such as Clarke and Dyson imagined life in space.  They proposed orbital habitats and colonies on other planets.
+Yuri Gagarin was the first man in space.  He flew aboard the soviet rocket XXX.  
+
+Gagarin orbited for XXX before returning safely to earth.
 
 ## Image
 

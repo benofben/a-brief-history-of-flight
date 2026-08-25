@@ -4,7 +4,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In the 1970s futurists such as Clarke and Dyson imagined life in space.  They proposed orbital habitats and colonies on other planets.
+In 20XX, Burt Rutan flew SpaceShip One.  This was the first private spacecraft.  It had two parts.  A plane flew to high altitude.  Then XX detached for space.
 
 ## Image
 

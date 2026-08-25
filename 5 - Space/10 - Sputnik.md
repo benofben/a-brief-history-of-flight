@@ -1,12 +1,12 @@
-# Goddard
+# Gemini
 
 This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.  Put the first paragraph of text at the top.  Put the second paragraph at the bottom.
 
 ## Text
 
-In 1926, Robert Goddard launched the first liquid fueled rocket.  It used gasoline with liquid oxygen.
+In 19XX, the USSR launched Sputnik.  This was the first time a man made object achieved orbit.
 
-The rocket reached a height of 41 feet and traveled 184 feet.
+Sputnik orbited for... beeping every xx seconds.  This event started the space race between the USA and USSR.
 
 ## Image
 

@@ -4,9 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 1926, Robert Goddard launched the first liquid fueled rocket.  It used gasoline with liquid oxygen.
+The Space Shuttle was intended to be a reusable space craft.
 
-The rocket reached a height of 41 feet and traveled 184 feet.
+It launched on 3 rockets, 2 XX and a XX.  Descending from space, it flew like a plane, ultimatley landing on a runway.
 
 ## Image
 

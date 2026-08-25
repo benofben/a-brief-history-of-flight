@@ -4,9 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 1926, Robert Goddard launched the first liquid fueled rocket.  It used gasoline with liquid oxygen.
+In 20XX, Elon Musk founded SpaceX.  It supplied rockets to NASA.  Musk's ultimate goal is colonizing Mars.
 
-The rocket reached a height of 41 feet and traveled 184 feet.
+Starship is intended to get us to Mars.  It flys out of Boca Chica at the southernmost point in Texas.  Orbital insertion requires less energy closer to the equator.
 
 ## Image
 

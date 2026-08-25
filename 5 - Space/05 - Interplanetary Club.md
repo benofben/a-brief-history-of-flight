@@ -4,9 +4,9 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 1926, Robert Goddard launched the first liquid fueled rocket.  It used gasoline with liquid oxygen.
+Arthur C Clarke Founded the Interplanetary Club.  Britain had outlawer rocket experiments in 1875.  So, the club built mathematical models for rockets and sattelittes.
 
-The rocket reached a height of 41 feet and traveled 184 feet.
+In the US and Germany work on rockets continueed.  If Clarke had been able to build and test rockets in the UK, it's quite possible they would have developed there first.
 
 ## Image
 
