@@ -11,4 +11,4 @@ Amazon Kindle Direct Publishing (KDP) has a maximum size of 650 MB.  GitHub has 
 * [PDF](A%20Brief%20History%20of%20Flight.pdf)
 * [Amazon](http://amazon.com)
 
-Comments and suggestions are appreciated.  Consider filing an issue or creating a PR.
+Issues and pull requests are appreciated.
