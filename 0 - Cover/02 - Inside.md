@@ -6,8 +6,8 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 "How lucky we are to live in this time, the first moment in human history when we are in fact visiting other worlds." -Carl Sagan
 
-# Image
+## Image
 
-Create an image showing Saturn rising from one of its moons.  The viewpoint is standing on the moon with a buck rogers style rocket to the left, landed on the surface.
+Create an image showing Saturn rising from one of its moons.  The viewpoint is standing on the moon with a Buck Rogers style rocket to the left, landed on the surface.
 
 Use the style of the example.

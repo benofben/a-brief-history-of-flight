@@ -9,6 +9,6 @@ by Ben Lackey
 
 ## Image
 
-Paint the cover in the style of robert schultz.  It shows the X-29 flying over a desert with a dark sky and the aurora borealis.
+Paint the cover in the style of Robert Schultz.  It shows the X-29 flying over a desert with a dark sky and the aurora borealis.
 
 The font to look like an old Poul Anderson sci fi cover.
