@@ -14,4 +14,4 @@ Show a picture of Orville Wright flying the Wright Flyer for the first time.
 
 ## Style
 
-The image should be photorealistic
+The image should be photorealistic.

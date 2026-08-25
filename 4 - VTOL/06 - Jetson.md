@@ -6,7 +6,7 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 Jetson is building flying cars.  These are single person electric aircraft.
 
-The regulatory regime in the US makes flying them challenging.  It's possible other countries will use these devices before the US does. 
+The regulatory regime in the US makes flying them challenging.  It's possible other countries will use these devices before the US does.
 
 ## Image
 

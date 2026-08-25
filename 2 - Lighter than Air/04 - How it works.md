@@ -17,4 +17,3 @@ The drawing should be in the style of a blueprint schematic.
 Show a drawing of a hydrogen ballon.  The balloon is an enclosed sphere with a basket hanging from it.
 
 Label the Hydrogen in the ballon and the less dense air outside.
-

@@ -10,6 +10,4 @@ The balloon was a dual gas hybrid.  It combined an inner cell filled with helium
 
 ## Image
 
-Use the example image as inspiration.
-
 The image should be photorealistic.

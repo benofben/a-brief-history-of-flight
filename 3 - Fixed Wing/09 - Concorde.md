@@ -1,4 +1,4 @@
-# Concord
+# Concorde
 
 This is a page in a children's book.  The aspect ratio should be 1:1.  There should be an image with the text overlaid.
 
