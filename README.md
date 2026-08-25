@@ -4,7 +4,7 @@ I've been frustrated by books that treat children like fools and cowards.  This 
 
 At least one copy will be purchased.  Perhaps others will enjoy it as well.
 
-The images were created with Gemini using the markdown prompts in this repo.  Gemini produces 2500 x 2500 pixels at maximum resolution.  I tweaked the images with Photoshop and Illustrator.  That includes upscaling them to 2550 and sizing to 8.5" sqaure.  This gives 300 DPI.  The resulting PDF is 2 GB.  
+The images were created with Gemini using the markdown in this repo.  Gemini produces 2500 x 2500 pixels at maximum resolution.  I tweaked the images with Photoshop and Illustrator.  That includes upscaling them to 2550 and sizing to 8.5" sqaure.  This gives 300 DPI.  The resulting PDF is 2 GB.  
 
 Amazon Kindle Direct Publishing (KDP) has a maximum size of 650 MB.  GitHub has a maximum file size of 500mb.  So I downsampled the image from the original.  The result is a lossy 82 pages of 8.5" x 8.5" at 300 DPI.
 
