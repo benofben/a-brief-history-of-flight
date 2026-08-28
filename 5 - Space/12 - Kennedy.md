@@ -4,10 +4,10 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 196X president John F Kennedy spoke at Rice.  
+In 1962 president John F Kennedy spoke at Rice.  America was behind in the space race.  Kennedy wanted to fix that.
 
-"We commit ourselves by the end of this decade to putting a man on the moon.  We choose to go to the moon and do the other things, not because it is easy but because it is hard."
+He said, "We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard."
 
 ## Image
 
-Use the example image as guidance.  Create a photorealistic picture.
+Use the image provided.

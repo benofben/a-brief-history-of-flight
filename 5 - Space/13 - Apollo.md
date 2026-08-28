@@ -4,10 +4,10 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-The Apollo X mission put a man on the moon in 1969.  Neil Armstrong and Jim Lovel launched on top of a Saturn V rocket.
+The Apollo 11 mission put a man on the moon in 1969.  Neil Armstrong, Buzz Aldrin and Michael Collins launched on top of a Saturn V rocket.
 
-The rocket had X stages.  As it flew higher, those fell off.
+The rocket had 3 stages.  As it flew higher, those fell off.  A lander and orbiter then made the journey to the moon.
 
 ## Image
 
-Use the example image as guidance.  Create a photorealistic picture.
+Use the example image.

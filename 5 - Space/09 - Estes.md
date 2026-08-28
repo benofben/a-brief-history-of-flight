@@ -4,8 +4,10 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 1958 Estes began producing model rockets.  Generations of children have grown up playing with these, learning about aerodynamics and thrust firsthand.
+In 1958 Estes began producing model rockets.  
+
+Generations of children have grown up playing with these, learning about aerodynamics and thrust firsthand.
 
 ## Image
 
-Use the example image as guidance.  Create a photorealistic picture.
+Create a photorealistic image of a simple Estes Rocket ready to launch.

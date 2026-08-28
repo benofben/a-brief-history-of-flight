@@ -4,10 +4,10 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-Arthur C Clarke Founded the Interplanetary Club.  Britain had outlawer rocket experiments in 1875.  So, the club built mathematical models for rockets and sattelittes.
+In 1934, Arthur C Clarke joined the British Interplanetary Society.  Britain had outlawed explosive experiments in 1875.  So, the society built mathematical models for rockets and satellites.
 
-In the US and Germany work on rockets continueed.  If Clarke had been able to build and test rockets in the UK, it's quite possible they would have developed there first.
+In the US and Germany work on rockets continued.  If Clarke had been able to build and test rockets in the UK, it's quite possible they would have developed there first.
 
 ## Image
 
-Use the example image as guidance.  Create a photorealistic picture.
+Use the example image.

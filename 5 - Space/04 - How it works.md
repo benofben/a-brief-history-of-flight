@@ -10,4 +10,4 @@ Goddard used gasoline and oxygen.  Today hydrogen and oxygen are most common.
 
 ## Image
 
-Use the example image as guidance.  Create a blueprint style diagram.
+Create a blueprint style diagram showing how a rocket engine works.

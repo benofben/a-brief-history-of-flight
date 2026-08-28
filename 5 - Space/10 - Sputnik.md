@@ -4,10 +4,10 @@ This is a page in a children's book.  The aspect ratio should be 1:1.  There sho
 
 ## Text
 
-In 19XX, the USSR launched Sputnik.  This was the first time a man made object achieved orbit.
+In 1957, the Russians launched Sputnik.  This was the first time a man made object achieved orbit.
 
-Sputnik orbited for... beeping every xx seconds.  This event started the space race between the USA and USSR.
+Sputnik broadcast a simple signal for 21 days before its battery died.  After 92 days the orbit deteriorated and Sputnik burned up on reentry.
 
 ## Image
 
-Use the example image as guidance.  Create a photorealistic picture.
+Create a photorealistic image of Sputnik in space.
