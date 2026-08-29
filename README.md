@@ -6,9 +6,9 @@ At least one copy will be purchased.  Perhaps others will enjoy it as well.
 
 The images were created with Gemini using the markdown in this repo.  Gemini produces 2500 x 2500 pixels at maximum resolution.  I tweaked the images with Photoshop and Illustrator.  That includes upscaling them to 2550 and sizing to 8.5" sqaure.  This gives 300 DPI.  
 
-The resulting PDF is 2 GB.  Removing editing features and such drops it to 100 MB.  Amazon Kindle Direct Publishing (KDP) has a maximum size of 650 MB.  GitHub has a maximum file size of 500 MB.
+The resulting PDF is 2 GB.  Removing editing features and such drops it to 134 MB.  Amazon Kindle Direct Publishing (KDP) has a maximum size of 650 MB.  GitHub has a maximum file size of 100 MB.
 
-* [PDF](A%20Brief%20History%20of%20Flight.pdf)
+* [PDF](https://drive.google.com/file/d/1tBrnpFzW6B88Asm8maYo3Y49kboCqBBU/view?usp=sharing)
 * [Amazon](http://amazon.com)
 
 Issues and pull requests are appreciated.
