@@ -8,4 +8,4 @@ The first manned flight took place in 1783 in Paris.  The Montgolfier brothers b
 
 ## Image
 
-Use the example image and overlay text.
+Use the example image as is. Overlay text.
