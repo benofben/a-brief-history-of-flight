@@ -4,7 +4,7 @@ I've been frustrated by books that treat children like fools and cowards.  This 
 
 At least one copy will be purchased.  Perhaps others will enjoy it as well.
 
-The images were created with Gemini using the markdown in this repo.  Gemini produces 2500 x 2500 pixels at maximum resolution.  I tweaked the images with Photoshop and Illustrator.  That includes upscaling them to 8.75" sqaure at 300 DPI.
+The images were created with Gemini using the markdown in this repo.  Gemini produces 2500 x 2500 pixels at maximum resolution.  I tweaked the images with Photoshop and Illustrator.  That includes upscaling them to 8.75" square at 300 DPI.
 
 Amazon publishing doesn't accept Illustrator bleed.  Instead it wants 1/8" on each side.  So the 8.75" size is for a 8.5" book.
 
