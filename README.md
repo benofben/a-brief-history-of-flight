@@ -1,6 +1,6 @@
 # A Brief History of Flight
 
-I've been frustrated by books that treat children like fools and cowards.  This book is intended for Olive at age 2.  It aims to entertain and spark deeper questions about flight, history, engineering, exploration, physics and chemisty.  I hope it is a step toward wisdom and bravery.
+I've been frustrated by books that treat children like fools and cowards.  This book is intended for Olive at age 2.  It aims to entertain and spark deeper questions about flight, history, engineering, exploration, physics and chemistry.  I hope it is a step toward wisdom and bravery.
 
 At least one copy will be purchased.  Perhaps others will enjoy it as well.
 
