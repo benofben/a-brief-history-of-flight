@@ -11,6 +11,6 @@ Amazon publishing doesn't accept Illustrator bleed.  Instead it wants 1/8" on ea
 The resulting PDF is 2 GB.  Removing editing features and such drops it to 136 MB.  Amazon Kindle Direct Publishing (KDP) has a maximum size of 650 MB.  GitHub has a maximum file size of 100 MB.
 
 * [PDF](https://drive.google.com/file/d/1tBrnpFzW6B88Asm8maYo3Y49kboCqBBU/view?usp=sharing)
-* [Amazon](http://amazon.com)
+* [Amazon](https://www.amazon.com/dp/B0HHHYY4WT)
 
 Issues and pull requests are appreciated.
